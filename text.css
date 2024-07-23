@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+    color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+.u{
+    text-transform: uppercase;
+    text-indent: 50px;
+    word-spacing: 5px;
+    text-shadow: 2px 2px red;
+    
+}
+.l{
+    text-transform: lowercase;
+    line-height: 5px;
+    color: blue;
+}
+.p1 {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .p2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 0.875em;
+    font-variant: small-caps;
+  }
+  
+  .p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: oblique;
+    font-weight: bold;
+    font-size:  1.875em;
+
+  }
+  table{
+    width: 100%;
+    height: 300px;
+    border-collapse: collapse;
+  }
+  td{
+    text-align: center;
+    vertical-align: bottom;
+    padding: 20px;
+  }
+  th{
+    text-align: left;
+    padding: 20px;
+  }
+  table,th,td{
+    border: 2px double;
+  }
